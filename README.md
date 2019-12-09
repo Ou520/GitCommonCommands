@@ -1,8 +1,6 @@
 # GitCommonCommands
 ## Git的常用命令的笔记:
 
-[22](http://www.baidu.com/img/bdlogo.gif)
-
 按Tab键：补全命令
 
 ll：查看当前目录下的所以文件（不包含隐藏）
