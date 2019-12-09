@@ -13,6 +13,19 @@ cat + 文件路径：查看文件里的内容
 
 pwd：查看当前在那个目录下
 
+
+
+### 设置签名：（项目级别）
+git config user.name + 用户名：设置用户名（项目级别）
+
+git config user.email + 邮箱账号：设置邮箱账号（项目级别）
+
+### 设置签名：（系统级别）
+git config --global user.name + 用户名：设置用户名
+
+git config --global user.email + 邮箱账号：设置邮箱账号
+
+
 git status:查看当前状态（红色没有添加到缓存区，绿色表示已经添加到缓冲区）
 
 git init:初始化仓库
@@ -50,6 +63,8 @@ git checking +远程库地址别名 / 远程分支名:切换到拉取的仓库�
 git merge +远程库地址别名 / 远程分支名：合并拉取远程仓库
 
 
+
+
 ### vim编辑器的用法（默认是命令模式）
 
 vim + 文件名.格式：创建文件
@@ -67,6 +82,8 @@ set nu:显示行号（要在：（命令模式）下）
 b：向上翻页
 
 q：退出分页
+
+
 
 
 ### 分支：
@@ -88,15 +105,7 @@ git branch -d + 分支名：删除某分支（要切换别的分支去删除，�
 
 
 
-### 设置签名：（项目级别）
-git config user.name + 用户名：设置用户名（项目级别）
 
-git config user.email + 邮箱账号：设置邮箱账号（项目级别）
-
-### 设置签名：（系统级别）
-git config --global user.name + 用户名：设置用户名
-
-git config --global user.email + 邮箱账号：设置邮箱账号
 
 
 ### 把项目托管到GitHub的步骤
