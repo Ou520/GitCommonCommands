@@ -1,7 +1,7 @@
 # GitCommonCommands
 ## Git的常用命令的笔记:
 
-![](http://www.baidu.com/img/bdlogo.gif)
+![] (http://www.baidu.com/img/bdlogo.gif)
 
 按Tab键：补全命令
 
